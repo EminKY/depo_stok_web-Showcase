@@ -56,9 +56,8 @@ Modern işletmeler için geliştirilmiş web tabanlı depo, stok, satış ve tek
 Aktif olarak geliştirilmektedir.
 
 > Bu repo yalnızca portföy amaçlıdır. Kaynak kodlar paylaşılmamaktadır.
->
-> ## Geliştirici
-
+ 
+## Geliştirici
 Emin Kaya
 
 GitHub: @EminKY
