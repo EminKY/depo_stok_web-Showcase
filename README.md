@@ -38,6 +38,15 @@ Modern işletmeler için geliştirilmiş web tabanlı depo, stok, satış ve tek
 - AJAX
 
 ## Ekran Görüntüleri
+### Ana Menü
+![Sistem Ayarları](screenshots/ana-menü.png)
+### Stok Takip
+![Sistem Ayarları](screenshots/stok-takip1.png)
+![Sistem Ayarları](screenshots/stok-takip2.png)
+### Satış İşlemi
+![Sistem Ayarları](screenshots/satis-sayfasi.png)
+### Kasa Sistemi
+![Sistem Ayarları](screenshots/kasa-yönetimi.png)
 
 ### Sistem Ayarları
 ![Sistem Ayarları](screenshots/sistem-ayarlari.png)
